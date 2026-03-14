@@ -5,14 +5,29 @@
     "icon": "fa fa-blog"
   },
   {
+    "name": "IP检测",
+    "url": "https://ip.wwwo.eu.cc",
+    "icon": "fa fa-satellite-dish "
+  },
+  {
+    "name": "工具",
+    "url": "https://tools.wwwo.eu.cc",
+    "icon": "fa fa-archive"
+  },
+  {
     "name": "计算器",
     "url": "https://jsq.wwwo.eu.cc",
-    "icon": "fa fa-cloud "
+    "icon": "fa fa-keyboard "
   },
   {
     "name": "汇率",
     "url": "https://usd.wwwo.eu.cc",
-    "icon": "fa fa-image"
+    "icon": "fa fa-btc"
+  },
+  {
+    "name": "哪吒备注",
+    "url": "https://nzpz.wwwo.eu.cc",
+    "icon": "fa fa-clone"
   }
 
 ]
