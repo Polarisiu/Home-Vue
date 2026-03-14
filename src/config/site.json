@@ -10,7 +10,7 @@
     "icon": "fa fa-blog"
   },
   {
-    "name": "toolbox",
+    "name": "Toolbox",
     "url": "https://tool.vvvu.eu.cc",
     "icon": "fa fa-hdd "
   },
@@ -25,14 +25,14 @@
     "icon": "fa fa-satellite-dish "
   },
   {
-    "name": "工具",
-    "url": "https://tools.wwwo.eu.cc",
-    "icon": "fa fa-archive"
-  },
-  {
     "name": "计算器",
     "url": "https://jsq.wwwo.eu.cc",
     "icon": "fa fa-keyboard "
+  },
+  {
+    "name": "工具",
+    "url": "https://tools.wwwo.eu.cc",
+    "icon": "fa fa-archive"
   },
   {
     "name": "汇率",
