@@ -2,7 +2,22 @@
   {
     "name": "导航",
     "url": "https://nav.wwwo.eu.cc",
+    "icon": "fa fa-globe"
+  },
+  {
+    "name": "博客",
+    "url": "https://k.wwwo.eu.cc",
     "icon": "fa fa-blog"
+  },
+  {
+    "name": "toolbox",
+    "url": "https://tool.vvvu.eu.cc",
+    "icon": "fa fa-hdd "
+  },
+  {
+    "name": "监测",
+    "url": "https://up.wwwo.eu.cc",
+    "icon": "fa-solid fa-bolt"
   },
   {
     "name": "IP检测",
