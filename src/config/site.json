@@ -1,32 +1,18 @@
 [
   {
-    "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "name": "导航",
+    "url": "https://nav.wwwo.eu.cc",
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
+    "name": "计算器",
+    "url": "https://jsq.wwwo.eu.cc",
     "icon": "fa fa-cloud "
   },
   {
-    "name": "图床",
-    "url": "https://dev.bsgun.cn",
+    "name": "汇率",
+    "url": "https://usd.wwwo.eu.cc",
     "icon": "fa fa-image"
-  },
-  {
-    "name": "封面",
-    "url": "https://cover.bsgun.cn",
-    "icon": "fa fa-panorama"
-  },
-  {
-    "name": "监测",
-    "url": "https://status.bsgun.cn",
-    "icon": "fa fa-chart-line"
-  },
-  {
-    "name": "图标",
-    "url": "https://icon.bsgun.cn/",
-    "icon": "fa fa-icons"
   }
+
 ]
