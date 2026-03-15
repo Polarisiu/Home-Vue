@@ -6,6 +6,12 @@
     "hoverColor": "#e78b0a"
   },
   {
+    "type": "NodeCrypt",
+    "icon": "fas fa-comments",
+    "url": "https://sx.wwwo.eu.cc",
+    "hoverColor": "#1e90ff"
+  },
+  {
     "type": "Github",
     "icon": "fab fa-github",
     "url": "https://github.com/Polarisiu",
