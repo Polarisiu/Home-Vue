@@ -62,17 +62,17 @@
   {
     "name": "随机地址",
     "url": "https://dz.wwwo.eu.cc",
-    "icon": "fa fa-yen-sign"
+    "icon": "fa fa-globe-americas"
   },
   {
     "name": "哪吒通知",
     "url": "https://nzjk.wwwo.eu.cc",
-    "icon": "fa fa-globe-americas"
+    "icon": "fa fa-bell"
   },
   {
     "name": "哪吒备注",
     "url": "https://nzpz.wwwo.eu.cc",
-    "icon": "fa fa-bell"
+    "icon": "fa fa-copy"
   }
 
 ]
