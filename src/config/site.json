@@ -78,6 +78,10 @@
     "name": "哪吒备注",
     "url": "https://nzpz.wwwo.eu.cc",
     "icon": "fa fa-copy"
+  },
+  {
+    "name": "CF请求",
+    "url": "https://su.wwwo.eu.cc",
+    "icon": "fa fa-cloud"
   }
-
 ]
